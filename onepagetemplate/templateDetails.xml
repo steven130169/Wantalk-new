@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template">
+	<name>onepagetemplate</name>
+	<creationDate>2018-07-29</creationDate>
+	<author>CHIWEN</author>
+	<authorEmail>john@example.com</authorEmail>
+	<authorUrl>http://www.example.com</authorUrl>
+	<copyright>John Doe 2008</copyright>
+	<license>GNU/GPL</license>
+	<version>1.0.0</version>
+	<description>My New Template</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>js</folder>
+		<folder>css</folder>
+	</files>
+	<positions>
+		<position>home</position>
+	</positions>
+</extension>
