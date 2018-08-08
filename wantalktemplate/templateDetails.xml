@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.8" type="template">
+	<name>wantalkTemplate</name>
+	<creationDate>2018-08-07</creationDate>
+	<author>chiwen</author>
+	<authorEmail>a09930185@gmail.com</authorEmail>
+	<authorUrl>http://www.example.com</authorUrl>
+	<copyright>chiwen 2018</copyright>
+	<license>GNU/GPL</license>
+	<version>1.0</version>
+	<description>Wantalk Template</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>images</folder>
+		<folder>css</folder>
+		<folder>js</folder>
+	</files>
+	<positions>
+		<position>navbar</position>
+		<position>video</position>
+		<position>mobilequote</position>
+		<position>newarticle</position>
+		<position>hotarticle</position>
+		<position>footer</position>
+	</positions>
+</extension>
