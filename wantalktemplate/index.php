@@ -39,6 +39,7 @@
 </head>
 
 <body>
+  <!--wantalk joomla modules-->
   <jdoc:include type="modules" name="menu" style="none" />
   <jdoc:include type="modules" name="navbar" />
   <jdoc:include type="modules" name="video" /> 
